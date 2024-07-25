@@ -22,5 +22,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 No prerequisites are required. A web browser is sufficient to run the application.
- [live demo](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityApply/ApplicationSubmitted?applicationId=423c2698-e9c6-43f0-9622-745a0d8bc140)
+
 
